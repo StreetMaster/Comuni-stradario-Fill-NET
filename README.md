@@ -12,6 +12,7 @@ Per volumi di utilizzo maggiori consultare nel sito i piani di utilizzo.
 Se non viene utilizzata una chiave valida il servizio restituisce il codice di errore 997: chiave non riconosciuta
 
 Il servizio verifica e corregge indirizzi italiani con una copertura a livello di singola strada su tutto il territorio nazionale.
+La base dati di riferimento è costantemente aggiornata con le variazioni amministrative e postali ufficiali.
 La versione FILL rispetto alla versione VERIFY correda l'output con molti dati aggiuntivi.
   
 Output di base:

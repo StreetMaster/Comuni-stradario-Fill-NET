@@ -512,7 +512,7 @@
             this.txtKey.Name = "txtKey";
             this.txtKey.Size = new System.Drawing.Size(348, 21);
             this.txtKey.TabIndex = 4;
-            this.txtKey.Text = "Specificare una chiave per il servizio Verify";
+            this.txtKey.Text = "Specificare una chiave per il servizio FILL";
             // 
             // txtOutIstatProv
             // 

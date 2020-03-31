@@ -19,11 +19,11 @@
     <ServiceContractMappings />
   </ClientOptions>
   <MetadataSources>
-    <MetadataSource Address="http://ec2-46-137-97-173.eu-west-1.compute.amazonaws.com/smws/fill?wsdl" Protocol="http" SourceId="1" />
+    <MetadataSource Address="https://streetmaster.streetmaster.it/smws/fill?wsdl" Protocol="http" SourceId="1" />
   </MetadataSources>
   <Metadata>
-    <MetadataFile FileName="fill.wsdl" MetadataType="Wsdl" ID="4210e361-d7ae-475a-b14c-b3ca578c892e" SourceId="1" SourceUrl="http://ec2-46-137-97-173.eu-west-1.compute.amazonaws.com/smws/fill?wsdl" />
-    <MetadataFile FileName="fill.xsd" MetadataType="Schema" ID="4e1bac77-8597-44b6-8042-c1253a937580" SourceId="1" SourceUrl="http://ec2-46-137-97-173.eu-west-1.compute.amazonaws.com/smws/fill?xsd=1" />
+    <MetadataFile FileName="fill1.xsd" MetadataType="Schema" ID="b2bcfb6e-6407-4e25-8983-824499dd2a89" SourceId="1" SourceUrl="https://streetmaster.streetmaster.it/smws/fill?xsd=1" />
+    <MetadataFile FileName="fill1.wsdl" MetadataType="Wsdl" ID="b7589d4a-ab32-45b4-a8cb-37d07d4d1400" SourceId="1" SourceUrl="https://streetmaster.streetmaster.it/smws/fill?wsdl" />
   </Metadata>
   <Extensions>
     <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />

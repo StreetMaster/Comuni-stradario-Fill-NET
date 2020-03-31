@@ -9,7 +9,7 @@ Comuni italiani e stradario. Soluzione .NET per l'utilizzo del ws FILL di verifi
 
 ### Endpoint
 ```
-     http://ec2-46-137-97-173.eu-west-1.compute.amazonaws.com/smws/fill?wsdl
+     https://streetmaster.streetmaster.it/smws/fill?wsdl
 ```
 
 ### Key
